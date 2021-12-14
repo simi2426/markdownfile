@@ -1,5 +1,5 @@
-# HW3 Approach
+# HW4
 
-For this project, I first started out by creating a random loop to generate a set of numbers bound to 100, but to make it simpler, I created my own array list of six integers. Then, I created 'query', the integer we would be scanning the array to find. 
+I think the aspect of language within coding is very interesting. Last term, I remember I asked how people who speak other languages such as Spanish or Chinese use coding languages. I remember learning how un-direct language translations are in my Spanish class, and questioned how people who are not fluent in English can use coding languages that are made in English. I learned that they have to basically know English to use the language, which I found pretty unfair. This made me think of how language is used in coding, and how these languages and their functions can be translated into other languages to increase accessibilty to computer science.
 
-Next, I created contains() to actually inspect the array for the integer 'query'. I decided to make a for loop, because I couldn't really think of another way to inspect a set of numbers for an integer that wouldn't be too many lines of code.
+I find the entire topic of data really interesting, and within the realm of computing, how data is stored. How are different types of data organized, stored, etc? The physical storage of data is also very interesting to me. I recently learned that the spam email we receive from newsletters from random companies actually have a real environmental effect, as they have to be stored on physical drives in the world somewhere. I am interested in how this could possibly be eliminated without reducing the amount of data that can be stored in the world.
